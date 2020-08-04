@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/LedgerPrototypedApp/static/css/main.fd680bfa.chunk.css",
+    "main.js": "/LedgerPrototypedApp/static/js/main.a3889446.chunk.js",
+    "main.js.map": "/LedgerPrototypedApp/static/js/main.a3889446.chunk.js.map",
+    "runtime-main.js": "/LedgerPrototypedApp/static/js/runtime-main.47f2d17b.js",
+    "runtime-main.js.map": "/LedgerPrototypedApp/static/js/runtime-main.47f2d17b.js.map",
+    "static/css/2.ceb79488.chunk.css": "/LedgerPrototypedApp/static/css/2.ceb79488.chunk.css",
+    "static/js/2.a158dd3d.chunk.js": "/LedgerPrototypedApp/static/js/2.a158dd3d.chunk.js",
+    "static/js/2.a158dd3d.chunk.js.map": "/LedgerPrototypedApp/static/js/2.a158dd3d.chunk.js.map",
+    "index.html": "/LedgerPrototypedApp/index.html",
+    "precache-manifest.4f52fe85f595978f755f1e3a0d5506e5.js": "/LedgerPrototypedApp/precache-manifest.4f52fe85f595978f755f1e3a0d5506e5.js",
+    "service-worker.js": "/LedgerPrototypedApp/service-worker.js",
+    "static/css/2.ceb79488.chunk.css.map": "/LedgerPrototypedApp/static/css/2.ceb79488.chunk.css.map",
+    "static/css/main.fd680bfa.chunk.css.map": "/LedgerPrototypedApp/static/css/main.fd680bfa.chunk.css.map",
+    "static/js/2.a158dd3d.chunk.js.LICENSE.txt": "/LedgerPrototypedApp/static/js/2.a158dd3d.chunk.js.LICENSE.txt",
+    "static/media/bg2.png": "/LedgerPrototypedApp/static/media/bg2.0b1490dd.png",
+    "static/media/logo.svg": "/LedgerPrototypedApp/static/media/logo.5d5d9eef.svg",
+    "static/media/mylogo.jpg": "/LedgerPrototypedApp/static/media/mylogo.b0d6fa00.jpg",
+    "static/media/uulogo.png": "/LedgerPrototypedApp/static/media/uulogo.0f04b257.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47f2d17b.js",
+    "static/css/2.ceb79488.chunk.css",
+    "static/js/2.a158dd3d.chunk.js",
+    "static/css/main.fd680bfa.chunk.css",
+    "static/js/main.a3889446.chunk.js"
+  ]
+}
