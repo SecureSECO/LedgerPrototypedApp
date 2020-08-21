@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/LedgerPrototypedApp/static/css/main.750a1829.chunk.css",
-    "main.js": "/LedgerPrototypedApp/static/js/main.0fe46022.chunk.js",
-    "main.js.map": "/LedgerPrototypedApp/static/js/main.0fe46022.chunk.js.map",
+    "main.js": "/LedgerPrototypedApp/static/js/main.628cac2c.chunk.js",
+    "main.js.map": "/LedgerPrototypedApp/static/js/main.628cac2c.chunk.js.map",
     "runtime-main.js": "/LedgerPrototypedApp/static/js/runtime-main.47f2d17b.js",
     "runtime-main.js.map": "/LedgerPrototypedApp/static/js/runtime-main.47f2d17b.js.map",
     "static/css/2.ceb79488.chunk.css": "/LedgerPrototypedApp/static/css/2.ceb79488.chunk.css",
     "static/js/2.74f2ca4f.chunk.js": "/LedgerPrototypedApp/static/js/2.74f2ca4f.chunk.js",
     "static/js/2.74f2ca4f.chunk.js.map": "/LedgerPrototypedApp/static/js/2.74f2ca4f.chunk.js.map",
     "index.html": "/LedgerPrototypedApp/index.html",
-    "precache-manifest.17435da27e4ad91e54f843c09266a137.js": "/LedgerPrototypedApp/precache-manifest.17435da27e4ad91e54f843c09266a137.js",
+    "precache-manifest.cc5fa02489dca30c73f2a668ddafb673.js": "/LedgerPrototypedApp/precache-manifest.cc5fa02489dca30c73f2a668ddafb673.js",
     "service-worker.js": "/LedgerPrototypedApp/service-worker.js",
     "static/css/2.ceb79488.chunk.css.map": "/LedgerPrototypedApp/static/css/2.ceb79488.chunk.css.map",
     "static/css/main.750a1829.chunk.css.map": "/LedgerPrototypedApp/static/css/main.750a1829.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.ceb79488.chunk.css",
     "static/js/2.74f2ca4f.chunk.js",
     "static/css/main.750a1829.chunk.css",
-    "static/js/main.0fe46022.chunk.js"
+    "static/js/main.628cac2c.chunk.js"
   ]
 }
