@@ -1,0 +1,104 @@
+/* Styles go here */
+#content{
+	width: 100%
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.center{
+	text-align: center;
+}
+
+.form{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+  float: left;
+}
+
+.title{
+	margin:20px 0;
+}
+
+.right{
+  float: right;
+}
+
+.marginleft{
+  margin-left: 110px
+}
+.title1{
+  color: #fff;
+  font-weight: bold;
+}
+
+.bg{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-top:80px;
+  margin-bottom: 20px
+}
+
+.footer {
+
+  left: 0;
+  bottom: 10px;
+  width: 100%;
+  position: relative;
+
+  color: white;
+  text-align: center;
+}
+
+.linkbutton{
+  margin-bottom: 10px
+}
+
+.font{
+  font-size: 14px;
+  text-align: justify;
+}
+
+.btnSearch{
+  margin-top: 10px
+}
+
+.searchBox{
+
+  margin-top: 50px;
+
+  
+
+  
+}
+
+body{
+  height: auto;
+}
+
+.fixed{
+  position: fixed;
+}
+
+.resualt{
+  margin-top: 20px;
+  border:1px solid #a8a5a5;
+  padding: 20px
+}
+
+.nav-link{
+  color: #a0baba
+}
