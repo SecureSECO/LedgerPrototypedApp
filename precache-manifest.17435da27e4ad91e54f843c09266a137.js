@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e788290ae17342459a7d2fa8a9757b0b",
+    "revision": "cd5f5b24d6381eec18dcf2c8b7c89b69",
     "url": "/LedgerPrototypedApp/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LedgerPrototypedApp/static/css/2.ceb79488.chunk.css"
   },
   {
-    "revision": "0efc234fb0f719553b7a",
+    "revision": "2f24c387ec49577fdbfa",
     "url": "/LedgerPrototypedApp/static/css/main.750a1829.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LedgerPrototypedApp/static/js/2.74f2ca4f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0efc234fb0f719553b7a",
-    "url": "/LedgerPrototypedApp/static/js/main.b76f68c9.chunk.js"
+    "revision": "2f24c387ec49577fdbfa",
+    "url": "/LedgerPrototypedApp/static/js/main.0fe46022.chunk.js"
   },
   {
     "revision": "4ee1be128892da2cfde6",
